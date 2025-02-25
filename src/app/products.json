@@ -1,0 +1,122 @@
+{
+  "chair": [
+    {
+      "id": 1,
+      "name": "Sakarias Armchair",
+      "category": "chair",
+      "price": "199.99",
+      "image": "/assets/products/chair/Sakarias Armchair.png"
+    },
+    {
+      "id": 2,
+      "name": "Baltsar Chair",
+      "category": "chair",
+      "price": "149.99",
+      "image": "/assets/products/chair/Baltsar Chair.png"
+    },
+    {
+      "id": 3,
+      "name": "Anjay Chair",
+      "category": "chair",
+      "price": "99.99",
+      "image": "/assets/products/chair/Anjay Chair.png"
+    },
+    {
+      "id": 4,
+      "name": "Nyantuy Chair",
+      "category": "chair",
+      "price": "79.99",
+      "image": "/assets/products/chair/Nyantuy Chair.png"
+    }
+  ],
+  "beds": [
+    {
+      "id": 1,
+      "name": "Couple Bed",
+      "category": "bed",
+      "price": "500.99",
+      "image": "/assets/products/beds/Couple Bed.png"
+    },
+    {
+      "id": 2,
+      "name": "Single Bed",
+      "category": "bed",
+      "price": "399.99",
+      "image": "/assets/products/beds/Single Bed.png"
+    },
+    {
+      "id": 3,
+      "name": "King Size Bed",
+      "category": "bed",
+      "price": "699.99",
+      "image": "/assets/products/beds/King Size Bed.png"
+    },
+    {
+      "id": 4,
+      "name": "Black Bed",
+      "category": "bed",
+      "price": "899.99",
+      "image": "/assets/products/beds/Black Bed.png"
+    }
+  ],
+  "lamp": [
+    {
+      "id": 1,
+      "name": "Modern Lamp",
+      "category": "lamp",
+      "price": "29.99",
+      "image": "/assets/products/lamp/Modern Lamp.png"
+    },
+    {
+      "id": 2,
+      "name": "Black Lamp",
+      "category": "lamp",
+      "price": "59.99",
+      "image": "/assets/products/lamp/Black Lamp.png"
+    },
+    {
+      "id": 3,
+      "name": "Vintage Glow Lamp",
+      "category": "lamp",
+      "price": "89.99",
+      "image": "/assets/products/lamp/Vintage Glow Lamp.png"
+    },
+    {
+      "id": 4,
+      "name": "Red Lamp",
+      "category": "lamp",
+      "price": "49.99",
+      "image": "/assets/products/lamp/Red Lamp.png"
+    }
+  ],
+  "sofa": [
+    {
+      "id": 1,
+      "name": "Blue Sofa",
+      "category": "sofa",
+      "price": "999.99",
+      "image": "/assets/products/sofa/Sofa.png"
+    },
+    {
+      "id": 2,
+      "name": "White Sofa",
+      "category": "sofa",
+      "price": "799.99",
+      "image": "/assets/products/sofa/White Sofa.png"
+    },
+    {
+      "id": 3,
+      "name": "Leather Sofa",
+      "category": "sofa",
+      "price": "1299.99",
+      "image": "/assets/products/sofa/Leather Sofa.png"
+    },
+    {
+      "id": 4,
+      "name": "Old Sofa",
+      "category": "sofa",
+      "price": "1499.99",
+      "image": "/assets/products/sofa/Old Sofa.png"
+    }
+  ]
+}
