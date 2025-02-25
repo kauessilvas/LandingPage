@@ -1,12 +1,8 @@
-![](https://raw.githubusercontent.com/kauessilvas/panto-furnitures/main/public/assets/readme/bg.png)
+![](https://raw.githubusercontent.com/kauessilvas/LandingPage/main/public/assets/readme/bg.png)
 <br>
-![](https://raw.githubusercontent.com/kauessilvas/panto-furnitures/main/public/assets/readme/bg2.png)
+![](https://raw.githubusercontent.com/kauessilvas/LandingPage/main/public/assets/readme/bg2.png)
 
 ## 🚀 How to use it
-
-**Access Remotely**
-
-<a href="https://panto-furnitures.vercel.app/" target="_blank">https://panto-furnitures.vercel.app/</a>
 
 **Run the site locally**
 
@@ -17,7 +13,7 @@ _NOTE: The default branch for this repo is `main`, when you push or pull make su
 Clone the repo locally by doing
 
 ```bash
-git clone https://github.com/kauessilvas/panto-furnitures.git
+git clone https://github.com/kauessilvas/LandingPage.git
 ```
 
 ### Step 2: Install Dependencies
@@ -25,7 +21,7 @@ git clone https://github.com/kauessilvas/panto-furnitures.git
 cd into the directory
 
 ```bash
-cd panto-furnitures
+cd LandingPage
 ```
 
 install all the dependencies
